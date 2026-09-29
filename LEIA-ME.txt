@@ -1,0 +1,27 @@
+ESPACO TERAPEUTICO SHAY SOARES - SISTEMA DE GESTAO
+==================================================
+
+COMO INSTALAR (Windows) - so na primeira vez:
+
+ 1. Instale o Python: https://www.python.org/downloads/
+    IMPORTANTE: na primeira tela marque "Add Python to PATH".
+ 2. De dois cliques em  Instalar.bat  (precisa de internet).
+ 3. Pronto! Um atalho "Espaco Shay Soares" aparece na Area de Trabalho.
+
+COMO USAR:
+
+ - Abra pelo atalho (ou Executar.bat).
+ - Primeiro acesso: usuario  admin   senha  admin  (o sistema pede para trocar).
+ - Para treinar com pacientes ficticios: Executar_Demonstracao.bat
+
+PRIMEIROS PASSOS:
+
+ 1. Configuracoes > Espaco e PIX: confira os dados, a cidade e a chave PIX.
+ 2. Servicos e precos: confira os valores.
+ 3. Novo cadastro > "Salvar e incluir servico".
+
+SEUS DADOS ficam na pasta "dados". Faca copia dela toda semana
+(pendrive, Google Drive ou OneDrive).
+
+Manual completo: pasta docs\MANUAL_DO_USUARIO.md
+WhatsApp:        pasta docs\WHATSAPP.md

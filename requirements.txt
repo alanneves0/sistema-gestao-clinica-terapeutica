@@ -1,0 +1,5 @@
+# Bibliotecas necessárias (instale com: python -m pip install -r requirements.txt)
+customtkinter>=5.2.2   # interface moderna
+pillow>=10.0           # imagens (logo)
+reportlab>=4.0         # recibos e carnês em PDF
+openpyxl>=3.1          # relatórios em Excel
